@@ -1,0 +1,18 @@
+2023-01-20 16:07:17.843 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-20 16:07:17.871 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-20 16:07:17.872 +01:00 [INF] Hosting environment: Development
+2023-01-20 16:07:17.872 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-20 16:07:28.025 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-20 16:09:27.276 +01:00 [INF] Application is shutting down...
+2023-01-20 16:11:28.681 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-20 16:11:28.709 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-20 16:11:28.710 +01:00 [INF] Hosting environment: Development
+2023-01-20 16:11:28.710 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-20 16:13:08.269 +01:00 [INF] Application is shutting down...
+2023-01-20 16:13:09.819 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-20 16:13:09.851 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-20 16:13:09.852 +01:00 [INF] Hosting environment: Development
+2023-01-20 16:13:09.852 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-20 16:13:12.816 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-20 16:13:12.831 +01:00 [INF] HTTP GET /WeatherForecast responded 200 in 15.4805 ms
+2023-01-20 16:14:11.913 +01:00 [INF] Application is shutting down...

@@ -1,0 +1,33 @@
+version: "3"
+
+networks:
+  web:
+    external: false
+    
+volumes:
+  datadrive:
+    external: false
+
+services:
+  seq:
+    image: datalust/seq:latest
+    deploy:
+      resources:
+        limits:
+          memory: 14G
+        reservations:
+          memory: 14G
+    volumes:
+      - ./datadrive:/data
+    environment:
+      - ACCEPT_EULA=Y
+      #- BASE_URI=https://seq.<snip>.com
+    ports:
+      - "5341:80"
+    networks:
+      - web
+    labels:
+      - traefik.backend=seq
+      - traefik.frontend.rule=Host:seq.<snip>.com
+      - traefik.docker.network=web
+      - traefik.port=80
