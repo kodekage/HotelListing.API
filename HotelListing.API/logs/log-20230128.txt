@@ -322,3 +322,31 @@ Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving 
 2023-01-28 20:48:33.638 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 158.5075 ms
 2023-01-28 20:48:41.715 +01:00 [INF] HTTP GET /api/countries responded 200 in 46.5590 ms
 2023-01-28 20:48:54.994 +01:00 [INF] Application is shutting down...
+2023-01-28 21:59:37.055 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-28 21:59:37.084 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-28 21:59:37.085 +01:00 [INF] Hosting environment: Development
+2023-01-28 21:59:37.085 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-28 21:59:46.909 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-28 21:59:48.105 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 1195.7196 ms
+2023-01-28 21:59:49.187 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 41.9565 ms
+2023-01-28 21:59:51.839 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 53.0496 ms
+2023-01-28 21:59:55.500 +01:00 [INF] HTTP GET /api/countries responded 200 in 42.0984 ms
+2023-01-28 21:59:56.394 +01:00 [INF] HTTP GET /api/countries responded 200 in 18.8135 ms
+2023-01-28 21:59:56.996 +01:00 [INF] HTTP GET /api/countries responded 200 in 19.4163 ms
+2023-01-28 21:59:57.504 +01:00 [INF] HTTP GET /api/countries responded 200 in 15.5329 ms
+2023-01-28 22:00:01.337 +01:00 [INF] HTTP POST /api/countries responded 201 in 207.3347 ms
+2023-01-28 22:00:02.331 +01:00 [INF] HTTP POST /api/countries responded 201 in 37.7628 ms
+2023-01-28 22:00:05.526 +01:00 [INF] HTTP PUT /api/countries/2 responded 204 in 51.7302 ms
+2023-01-28 22:00:06.401 +01:00 [INF] HTTP PUT /api/countries/2 responded 204 in 30.4973 ms
+2023-01-28 22:00:10.874 +01:00 [INF] HTTP PUT /api/countries/2 responded 204 in 35.4353 ms
+2023-01-28 22:00:14.783 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 19.7553 ms
+2023-01-28 22:00:17.005 +01:00 [INF] HTTP GET /api/countries/2 responded 200 in 26.5611 ms
+2023-01-28 22:00:33.288 +01:00 [INF] HTTP DELETE /api/countries/2 responded 204 in 35.3670 ms
+2023-01-28 22:00:37.833 +01:00 [INF] HTTP GET /api/countries/2 responded 404 in 13.6001 ms
+2023-01-28 22:00:41.006 +01:00 [INF] HTTP GET /api/countries responded 200 in 21.3444 ms
+2023-01-28 22:05:27.793 +01:00 [INF] Application is shutting down...
+2023-01-28 22:05:29.109 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-28 22:05:29.140 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-28 22:05:29.140 +01:00 [INF] Hosting environment: Development
+2023-01-28 22:05:29.140 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-28 22:05:33.183 +01:00 [INF] Application is shutting down...
