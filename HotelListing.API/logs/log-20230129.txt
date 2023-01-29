@@ -1,0 +1,85 @@
+2023-01-29 15:56:04.531 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 15:56:04.567 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 15:56:04.568 +01:00 [INF] Hosting environment: Development
+2023-01-29 15:56:04.568 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 20:31:24.872 +01:00 [INF] Application is shutting down...
+2023-01-29 20:31:27.797 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 20:31:27.830 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 20:31:27.830 +01:00 [INF] Hosting environment: Development
+2023-01-29 20:31:27.830 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 20:40:53.381 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 20:40:53.723 +01:00 [INF] HTTP POST /api/Account/register responded 400 in 358.4487 ms
+2023-01-29 20:41:11.252 +01:00 [INF] HTTP POST /api/Account/register responded 400 in 39.3555 ms
+2023-01-29 20:41:39.781 +01:00 [INF] HTTP POST /api/Account/register responded 200 in 1186.2170 ms
+2023-01-29 20:43:53.879 +01:00 [INF] Application is shutting down...
+2023-01-29 20:43:55.419 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 20:43:55.448 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 20:43:55.448 +01:00 [INF] Hosting environment: Development
+2023-01-29 20:43:55.448 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 20:56:33.568 +01:00 [INF] Application is shutting down...
+2023-01-29 20:56:36.774 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 20:56:36.804 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 20:56:36.804 +01:00 [INF] Hosting environment: Development
+2023-01-29 20:56:36.804 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 20:56:37.656 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 20:56:37.659 +01:00 [INF] HTTP GET /apple-touch-icon-precomposed.png responded 404 in 3.6005 ms
+2023-01-29 20:56:37.667 +01:00 [INF] HTTP GET /apple-touch-icon.png responded 404 in 0.3546 ms
+2023-01-29 20:57:00.310 +01:00 [INF] HTTP POST /api/Account/login responded 401 in 1167.5723 ms
+2023-01-29 20:58:27.556 +01:00 [INF] Application is shutting down...
+2023-01-29 20:58:29.539 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 20:58:29.568 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 20:58:29.568 +01:00 [INF] Hosting environment: Development
+2023-01-29 20:58:29.568 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 21:00:05.746 +01:00 [INF] Application is shutting down...
+2023-01-29 21:01:56.743 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 21:01:56.771 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 21:01:56.772 +01:00 [INF] Hosting environment: Development
+2023-01-29 21:01:56.772 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 21:02:37.958 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 21:02:38.307 +01:00 [INF] HTTP POST /api/Account/register responded 400 in 355.2383 ms
+2023-01-29 21:02:49.108 +01:00 [INF] HTTP POST /api/Account/register responded 200 in 1165.5829 ms
+2023-01-29 21:03:11.201 +01:00 [INF] HTTP POST /api/Account/login responded 200 in 116.9431 ms
+2023-01-29 21:04:46.778 +01:00 [INF] HTTP POST /api/Account/login responded 401 in 40.4142 ms
+2023-01-29 21:05:55.413 +01:00 [INF] Application is shutting down...
+2023-01-29 21:05:57.235 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 21:05:57.265 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 21:05:57.265 +01:00 [INF] Hosting environment: Development
+2023-01-29 21:05:57.265 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 21:06:05.169 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 21:06:06.297 +01:00 [INF] HTTP POST /api/Account/login responded 401 in 1130.4500 ms
+2023-01-29 22:28:13.506 +01:00 [INF] Application is shutting down...
+2023-01-29 22:29:39.829 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 22:29:39.859 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 22:29:39.860 +01:00 [INF] Hosting environment: Development
+2023-01-29 22:29:39.860 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 22:30:01.617 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 22:30:03.093 +01:00 [INF] HTTP POST /api/Account/login responded 200 in 1484.3388 ms
+2023-01-29 22:43:09.223 +01:00 [INF] Application is shutting down...
+2023-01-29 22:43:12.394 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 22:43:12.424 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 22:43:12.424 +01:00 [INF] Hosting environment: Development
+2023-01-29 22:43:12.424 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 22:43:22.719 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 22:43:22.725 +01:00 [INF] HTTP GET /api/countries responded 401 in 6.8471 ms
+2023-01-29 22:43:26.766 +01:00 [INF] HTTP GET /api/countries responded 401 in 0.8245 ms
+2023-01-29 22:45:29.371 +01:00 [INF] HTTP POST /api/Account/login responded 200 in 1430.7969 ms
+2023-01-29 22:45:43.861 +01:00 [INF] HTTP GET /api/countries responded 401 in 1.3393 ms
+2023-01-29 22:45:48.196 +01:00 [INF] HTTP GET /api/countries responded 401 in 0.3011 ms
+2023-01-29 22:46:13.808 +01:00 [INF] Application is shutting down...
+2023-01-29 22:46:16.384 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 22:46:16.413 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 22:46:16.414 +01:00 [INF] Hosting environment: Development
+2023-01-29 22:46:16.414 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 22:46:22.886 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 22:46:22.989 +01:00 [INF] HTTP GET /api/countries responded 401 in 104.1480 ms
+2023-01-29 22:46:24.680 +01:00 [INF] HTTP GET /api/countries responded 401 in 10.6909 ms
+2023-01-29 22:47:07.936 +01:00 [INF] HTTP POST /api/Account/login responded 200 in 1398.4569 ms
+2023-01-29 22:47:27.312 +01:00 [INF] HTTP GET /api/countries responded 401 in 1.2586 ms
+2023-01-29 22:48:58.454 +01:00 [INF] Application is shutting down...
+2023-01-29 22:49:00.587 +01:00 [INF] Now listening on: http://localhost:5092
+2023-01-29 22:49:00.613 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-29 22:49:00.613 +01:00 [INF] Hosting environment: Development
+2023-01-29 22:49:00.613 +01:00 [INF] Content root path: /Users/kodekage/RiderProjects/HotelListing.API/HotelListing.API
+2023-01-29 22:49:06.499 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-01-29 22:49:07.998 +01:00 [INF] HTTP POST /api/Account/login responded 200 in 1498.2579 ms
+2023-01-29 22:49:19.688 +01:00 [INF] HTTP GET /api/countries responded 200 in 113.0332 ms

@@ -4,11 +4,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using HotelListing.API.Data;
 using HotelListing.API.Models.Hotel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HotelListing.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class Hotels : ControllerBase
     {
         private readonly IHotelsRepository _hotelsRepository;
